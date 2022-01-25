@@ -1,6 +1,8 @@
-Title: Dual-layer Multi-robot Path Planning in Narrow-lane Warehousing Environments Using Integer Programming and Fast Feasibility Heuristics
-Authors: Jiaxi HUO, Ronghao Zheng*, Senlin Zhang, Meiqin Liu
-Abstract: Collision-free path planning is essential for the multi-robot system. Existing general multi-robot path planning algorithms do not work well in the narrow-lane warehousing environment. 
+**Title**: Dual-layer Multi-robot Path Planning in Narrow-lane Warehousing Environments Using Integer Programming and Fast Feasibility Heuristics
+
+**Authors**: Jiaxi Huo, Ronghao Zheng*, Senlin Zhang, Meiqin Liu
+
+**Abstract**: Collision-free path planning is essential for the multi-robot system. Existing general multi-robot path planning algorithms do not work well in the narrow-lane warehousing environment. 
     This paper proposes a novel dual-layer algorithm to solve the multi-robot path planning problem in the narrow-lane warehousing environment. 
     In the first layer, the integer programming method based on distance metrics balances the optimality of the generated collision-free robot paths and the computation time of the algorithm. 
     In the second layer, fast feasible heuristics are implemented to ensure the solvability of the proposed integer programming method in the first layer. 
