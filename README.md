@@ -1,4 +1,4 @@
-**Title**: Dual-layer Multi-robot Path Planning in Narrow-lane Warehousing Environments Using Integer Programming and Fast Feasibility Heuristics
+**Title**: Dual-layer Multi-robot path Planning in Narrow-lane Warehousing Environments Under Specific Traffic Policies
 
 **Authors**: Jiaxi Huo, Ronghao Zheng*, Senlin Zhang, Meiqin Liu
 
